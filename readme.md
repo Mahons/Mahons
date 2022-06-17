@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
 </p> 
 
-💬 Ask me about: .NET, Clean Architecture, Micro Services 
+💬 Ask me about: .NET, Clean Architecture, Integration, Microservices. 
 
 </br> 
 
